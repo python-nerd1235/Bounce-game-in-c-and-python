@@ -1,4 +1,4 @@
-#bounce game in c and python
+bounce game in c and python
 
 The Python version is coming soon!
 
